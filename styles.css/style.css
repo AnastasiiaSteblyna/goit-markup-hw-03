@@ -105,6 +105,9 @@ header {
 }
 
 .nav-item {
+  padding-top: 25px;
+  padding-bottom: 25px;
+
   color: var(--main-text-color);
   font-weight: 500;
   font-size: 14px;
@@ -113,6 +116,9 @@ header {
 }
 
 .current-nav-item {
+  padding-top: 25px;
+  padding-bottom: 25px;
+
   color: var(--accent-color);
   font-weight: 500;
   font-size: 14px;
@@ -126,6 +132,9 @@ header {
 }
 
 .contacts-top {
+  padding-top: 25px;
+  padding-bottom: 25px;
+
   color: var(--second-text-color);
   font-weight: 500;
   font-size: 14px;
